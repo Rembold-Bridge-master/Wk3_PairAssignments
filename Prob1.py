@@ -11,10 +11,13 @@ def stamper():
     Creates an interactive graphical window where a user can click
     to 'stamp' a random circle or rectangle onto the window.
     """
-    # Your code here!
-    # Remember to define any callback functions _before_ you create your listeners!
+
+    # Your callback functions can go up here
 
 
+
+    # Then your main code down here
+    gw = GWindow(GW_WIDTH, GW_HEIGHT)
 
 
 
